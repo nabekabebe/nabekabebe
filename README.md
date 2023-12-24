@@ -42,7 +42,7 @@ Driven by a passion for unraveling complex problems, I'm on the lookout for new 
 - 📫 How to reach me **nabekabebe6@gmail.com**
 
 
-- 🌐 Portfolio **[nabekabebe6@gmail.com](https://nabek-portfolio.me/#contact)**
+- 🌐 **[Portfolio](https://nabek-portfolio.me/#contact)**
 
 
 <h3>Connect with me:</h3>
