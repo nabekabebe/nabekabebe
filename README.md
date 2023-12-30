@@ -1,7 +1,5 @@
 
 <h1  align="center">Hi 👋, I'm Nabek.</h1>
-<img src="https://github.com/nabekabebe/nabekabebe.github.io/blob/main/readme-images/desktop-mini.png?raw=true"/>
-<h3  align="center">Senior Full-Stack Developer</h3>
 
 <p>Senior Full-Stack Software Engineer based in Addis Ababa, Ethiopia, boasting 5+ years of experience in crafting impactful web and mobile solutions. My journey includes remote work, contributing to projects involving Node.js, React.js, Android and Python.
 
